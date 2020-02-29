@@ -5,4 +5,4 @@ To use it, you can use a SAM template to deploy a proxy endpoint for this applic
 
 The package uses [aws-serverless-express](https://github.com/awslabs/aws-serverless-express) to export the handler from the codebase.
 
-This repo also contains a SAM template to deploy the app with API gateway. More information abput SAM can be found [here](https://github.com/awslabs/serverless-application-model).
+This repo also contains a SAM template to deploy the app with API gateway. More information about SAM can be found [here](https://github.com/awslabs/serverless-application-model).
