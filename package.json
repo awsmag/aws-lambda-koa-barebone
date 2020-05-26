@@ -20,7 +20,7 @@
   "dependencies": {
     "aws-serverless-express": "^3.3.8",
     "koa": "^2.12.0",
-    "koa-mw-logger": "^1.0.4"
+    "koa-mw-logger": "^1.0.5"
   },
   "devDependencies": {
     "gulp": "^4.0.2",
