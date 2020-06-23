@@ -19,7 +19,7 @@
   "homepage": "https://github.com/singhs020/aws-lambda-koa-barebone#readme",
   "dependencies": {
     "aws-serverless-express": "^3.3.8",
-    "koa": "^2.12.1",
+    "koa": "^2.13.0",
     "koa-mw-logger": "^1.1.0"
   },
   "devDependencies": {
