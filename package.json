@@ -8,15 +8,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/singhs020/aws-lambda-koa-barebone.git"
+    "url": "git+https://github.com/awsmag/aws-lambda-koa-barebone.git"
   },
   "keywords": [],
   "author": "Simranjeet Singh",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/singhs020/aws-lambda-koa-barebone/issues"
+    "url": "https://github.com/awsmag/aws-lambda-koa-barebone/issues"
   },
-  "homepage": "https://github.com/singhs020/aws-lambda-koa-barebone#readme",
+  "homepage": "https://github.com/awsmag/aws-lambda-koa-barebone#readme",
   "dependencies": {
     "aws-serverless-express": "^3.4.0",
     "koa": "^2.13.1",
