@@ -18,15 +18,15 @@
   },
   "homepage": "https://github.com/singhs020/aws-lambda-koa-barebone#readme",
   "dependencies": {
-    "aws-serverless-express": "^3.3.8",
-    "koa": "^2.13.0",
-    "koa-mw-logger": "^1.1.5"
+    "aws-serverless-express": "^3.4.0",
+    "koa": "^2.13.1",
+    "koa-mw-logger": "^1.4.9"
   },
   "devDependencies": {
     "gulp": "^4.0.2",
     "gulp-eslint": "^6.0.0",
     "gulp-shell": "^0.8.0",
-    "mocha": "^8.1.3",
+    "mocha": "^9.0.3",
     "nyc": "^15.1.0"
   }
 }
